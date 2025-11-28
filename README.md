@@ -36,7 +36,7 @@
 ### 3. 创建 Worker
 1.  进入 **Workers & Pages**，点击 "Create Application" -> "Create Worker"。
 2.  命名 Worker（例如 `cloud-drive`），点击 "Deploy"。
-3.  点击 "Edit code"，将本项目提供的 `worker.js` 代码完整复制进去。
+3.  点击 "Edit code"，将本项目提供的 `xiaoyaodrive.js` 代码完整复制进去。
 4.  保存并部署。
 
 ### 4. 绑定 R2 存储桶
