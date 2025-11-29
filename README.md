@@ -49,8 +49,8 @@
 
 ### 5. 配置环境变量 (Admin 密码)
 1.  在 Worker 的 **Settings** -> **Variables** -> **Environment Variables** 中添加：
-    *   **Variable name**: `ADMIN_PASSWORD`
-    *   **Value**: 设置你的管理员密码。
+    *   *变量名*: ADMIN_PASSWORD
+    *   **值**: 设置你的管理员密码。
 2.  保存并部署。
 
 ---
